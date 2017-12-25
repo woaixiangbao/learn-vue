@@ -1,2 +1,2 @@
 # learn-vue
-*test
+*test2
