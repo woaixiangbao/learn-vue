@@ -1,7 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <button @click="abc">abc</button>
+    <svg width="440" hight="440" viewbox="0 0 440 440">
+      <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#d1d3d7" fill="none"></circle>
+      <circle cx="220" cy="220" r="170" stroke-width="50" stroke="#00a5e0" fill="none" transform="matrix(0,-1,1,0,0,440)"></circle>
+    </svg>
   </div>
 </template>
 
@@ -14,9 +17,7 @@ export default {
     }
   },
   methods: {
-    abc () {
-      console.log(11111)
-    }
+    
   }
 }
 </script>
