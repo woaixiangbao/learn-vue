@@ -8,7 +8,7 @@
       <circle cx="220" cy="220" r="170" stroke-width="10" stroke="#00FF00" fill="none" transform="matrix(0,-1,1,0,0,440)" stroke-dasharray="1069 0"></circle>
       <circle cx="220" cy="220" r="160" stroke-width="10" stroke="#00FFFF" fill="none" transform="matrix(0,-1,1,0,0,440)" stroke-dasharray="1069 0"></circle>
       <circle cx="220" cy="220" r="150" stroke-width="10" stroke="#0000FF" fill="none" transform="matrix(0,-1,1,0,0,440)" stroke-dasharray="1069 0"></circle>
-      <circ -->le cx="220" cy="220" r="140" stroke-width="10" stroke="#8B00FF" fill="none" transform="matrix(0,-1,1,0,0,440)" stroke-dasharray="1069 0"></circle>
+      <circle cx="220" cy="220" r="140" stroke-width="10" stroke="#8B00FF" fill="none" transform="matrix(0,-1,1,0,0,440)" stroke-dasharray="1069 0"></circle> -->
     </svg>
     <p>拖我： <input id="range" type="range" min="0" max="100" value="0" ></p>
   </div>
