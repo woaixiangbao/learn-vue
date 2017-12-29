@@ -53,9 +53,9 @@ module.exports = {
     index: path.resolve(__dirname, '../dist/index.html'),
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsRoot: path.resolve(__dirname, '../dist'), //指向包含应用程序的所有静态资源的根目录
+    assetsSubDirectory: 'static', //绝对的静态资源，不需要webpack来处理的
+    assetsPublicPath: '/', //需要webpage处理的静态资源
 
     /**
      * Source Maps
